@@ -1,5 +1,5 @@
 #Clustering_FE_MCA
-👋 Hi, I’m @mohammadbadi  
+👋 Hi, I’m @IanBadi  
 👀 I’m interested in Data Analytics, Business Analytics or Business Intelligence. I love uncovering insightsfrom data that drive business decisions.  
 🌱 I’m currently learning advanced techniques in data analytics and business intelligence as part of my MBA in Financial and Management Analytics.  
 💞️ I’m looking to collaborate on innovative projects and opportunities in Data Analytics, especially within the Toronto market.  
@@ -12,4 +12,4 @@ This project showcases my expertise in unsupervised machine learning by demonstr
 This repository is Approach 3 of the CrimeAnalytics_Clustering. In this approach Frequency Encoding is used in all categorical coloumns and PCA is done on the Spatial Features. OCC_DOW is not engineered into 3 new features: Weekend, Week-Beginning, Mid-Week instead OCC_DOW is frequency encoded as DOW_Category_Freq. The Code Sections of this repository compliments the analysis done in Code Sections of CrimeAnalytics_Clustering. This repository is mainly created and executed to cross-check any bias in the primary models (CrimeAnalytics_Clustering) and ensure that models created are robust. Please visit the Code Sections of main model (CrimeAnalytics_Clustering/Code Sections/6.1 3D Visualizations of Top 5 Clusters.ipynb) to see the dynamically interacting 3D Clustering visuals, which serve as the outcome of all Clustering models.
 
 Thank you!
-regards, Mohammad Badi.
+regards, Ian Badi.
